@@ -17,3 +17,10 @@
 # Ronald Coase 
 
 > _"In my youth it was said that what was too silly to be said may be sung. In modern economics it may be put into mathematics."_
+
+
+# Jack High
+
+> _"Equilibrium is looked upon as a purely imaginary construction, i.e., as a mental construction that has no counterpart in reality. The sole purpose of this imaginary state is to aid in the understanding of the market process."_ -- High pp. 37
+
+
